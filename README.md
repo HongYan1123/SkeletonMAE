@@ -9,7 +9,7 @@ Skeleton sequence representation learning has shown great advantages for action 
 
 ### Model
 
-![](img/skeleton.pdf)
+<embed id="pdfPlayer" src="img/skeleton.pdf" type="application/pdf" width="100%" height="600" >
 
 ### Code
 Project code will be released in the near future...
